@@ -1,0 +1,27 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      user-agent: ['python-requests/2.22.0,pygbif/0.3.9']
+    method: GET
+    uri: https://api.gbif.org/v1/occurrence/counts/publishingCountries?country=DE
+  response:
+    body: {string: '{"GERMANY":35275236,"UNITED_KINGDOM":647657,"UNITED_STATES":343844,"NETHERLANDS":338854,"LUXEMBOURG":152822,"AUSTRIA":62815,"COLOMBIA":56482,"SWEDEN":51180,"BELGIUM":35973,"DENMARK":33672,"SWITZERLAND":30057,"FINLAND":27015,"FRANCE":26001,"ESTONIA":20322,"NORWAY":15897,"SPAIN":15599,"BRAZIL":8946,"AUSTRALIA":8343,"POLAND":6115,"JAPAN":4962,"CANADA":4524,"RUSSIAN_FEDERATION":3671,"SOUTH_AFRICA":3189,"NEW_ZEALAND":2902,"ARGENTINA":946,"MEXICO":746,"BULGARIA":682,"CZECH_REPUBLIC":360,"NICARAGUA":232,"ITALY":211,"COSTA_RICA":177,"TAIWAN":122,"GHANA":102,"PORTUGAL":82,"PERU":31,"KOREA_SOUTH":24,"MOROCCO":7,"TRINIDAD_TOBAGO":2,"SLOVENIA":2,"ZIMBABWE":1,"UKRAINE":1,"NIGERIA":1}'}
+    headers:
+      Accept-Ranges: [bytes]
+      Access-Control-Allow-Methods: ['HEAD, GET, POST, DELETE, PUT, OPTIONS']
+      Access-Control-Allow-Origin: ['*']
+      Age: ['0']
+      Cache-Control: ['public, max-age=600']
+      Connection: [keep-alive]
+      Content-Length: ['679']
+      Content-Type: [application/json]
+      Date: ['Wed, 20 Nov 2019 17:57:58 GMT']
+      Server: [Jetty(9.3.z-SNAPSHOT)]
+      Via: [1.1 varnish (Varnish/5.2)]
+      X-Varnish: ['1020527154']
+    status: {code: 200, message: OK}
+version: 1

@@ -1,0 +1,36 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      user-agent: ['python-requests/2.22.0,pygbif/0.3.9']
+    method: GET
+    uri: https://api.gbif.org/v1/installation?limit=5
+  response:
+    body: {string: '{"offset":0,"limit":5,"endOfRecords":false,"count":552,"results":[{"key":"6fdcfa44-e2fb-44e3-876d-7cf0e1f8bc9d","organizationKey":"96710dc8-fecb-440d-ae3e-c34ae8a9616f","type":"SYMBIOTA_INSTALLATION","title":"InvertEBase
+        Data Portal","createdBy":"symb-invertebase","modifiedBy":"symb-invertebase","created":"2019-11-14T15:46:29.674+0000","modified":"2019-11-14T15:46:29.674+0000","disabled":false,"contacts":[],"endpoints":[],"machineTags":[],"tags":[],"identifiers":[],"comments":[]},{"key":"1de87984-ce7c-407c-988c-a28014ae53ad","organizationKey":"96710dc8-fecb-440d-ae3e-c34ae8a9616f","type":"SYMBIOTA_INSTALLATION","title":"NEON
+        Biorepository Data Portal","createdBy":"symb_neon","modifiedBy":"symb_neon","created":"2019-10-30T13:37:54.253+0000","modified":"2019-10-30T13:37:54.253+0000","disabled":false,"contacts":[],"endpoints":[],"machineTags":[],"tags":[],"identifiers":[],"comments":[]},{"key":"a31977f6-a20a-4c76-81a7-cbd88fd03d27","organizationKey":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","type":"IPT_INSTALLATION","title":"KwaZulu-Natal
+        Museum IPT","description":"IPT for KwaZulu-Natal Museum to publish records
+        to GBIF","createdBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","modifiedBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","created":"2019-10-28T17:23:18.255+0000","modified":"2019-10-28T17:23:18.255+0000","disabled":false,"contacts":[{"key":1871851,"type":"TECHNICAL_POINT_OF_CONTACT","primary":true,"userId":[],"firstName":"John
+        Midgley","position":[],"email":["jmidgley@nmsa.org.za"],"phone":[],"homepage":[],"address":[],"createdBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","modifiedBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","created":"2019-10-28T17:23:18.307+0000","modified":"2019-10-28T17:23:18.307+0000"}],"endpoints":[{"key":441700,"type":"FEED","url":"https://ipt.kznm.saiab.ac.za/rss.do","createdBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","modifiedBy":"0c163d39-b67e-4bd9-a2f4-6344b67247f9","created":"2019-10-28T17:23:18.378+0000","modified":"2019-10-28T17:23:18.378+0000","machineTags":[]}],"machineTags":[],"tags":[],"identifiers":[],"comments":[]},{"key":"9c531ac2-579d-44a6-a5a0-73a4740f5df0","organizationKey":"b835f634-e4ed-4d54-bbcf-e0e6344a8c88","type":"IPT_INSTALLATION","title":"V.
+        N. Karazin Kharkiv National University IPT","description":"V. N. Karazin Kharkiv
+        National University IPT, Kharkiv, Ukraine","createdBy":"b835f634-e4ed-4d54-bbcf-e0e6344a8c88","modifiedBy":"9c531ac2-579d-44a6-a5a0-73a4740f5df0","created":"2019-10-17T10:31:29.559+0000","modified":"2019-10-17T11:56:08.482+0000","disabled":false,"contacts":[{"key":1843126,"type":"TECHNICAL_POINT_OF_CONTACT","primary":true,"userId":[],"firstName":"Oleh
+        Prylutskyi","position":[],"email":["oleh.prylutskyi@gmail.com"],"phone":[],"homepage":[],"address":[],"createdBy":"b835f634-e4ed-4d54-bbcf-e0e6344a8c88","modifiedBy":"9c531ac2-579d-44a6-a5a0-73a4740f5df0","created":"2019-10-17T10:31:29.600+0000","modified":"2019-10-17T11:56:08.535+0000"}],"endpoints":[{"key":439754,"type":"FEED","url":"https://gbif.univer.kharkov.ua/rss.do","createdBy":"9c531ac2-579d-44a6-a5a0-73a4740f5df0","modifiedBy":"9c531ac2-579d-44a6-a5a0-73a4740f5df0","created":"2019-10-17T11:56:08.665+0000","modified":"2019-10-17T11:56:08.665+0000","machineTags":[]}],"machineTags":[],"tags":[],"identifiers":[],"comments":[]},{"key":"d973e647-8f5f-4e6e-a1c6-65930deb0590","organizationKey":"f5fc4e61-b7a0-414b-ab68-b41cb23e7fdc","type":"HTTP_INSTALLATION","title":"RU-BIRDS.RU","description":"HTTP
+        installation for RU-BIRDS.RU","createdBy":"nvolik","modifiedBy":"nvolik","created":"2019-10-14T08:25:37.894+0000","modified":"2019-10-14T08:25:37.894+0000","disabled":false,"contacts":[],"endpoints":[],"machineTags":[],"tags":[],"identifiers":[],"comments":[]}]}'}
+    headers:
+      Accept-Ranges: [bytes]
+      Access-Control-Allow-Methods: ['HEAD, GET, POST, DELETE, PUT, OPTIONS']
+      Access-Control-Allow-Origin: ['*']
+      Age: ['0']
+      Cache-Control: ['public, max-age=3601']
+      Connection: [keep-alive]
+      Content-Length: ['3726']
+      Content-Type: [application/json]
+      Date: ['Wed, 20 Nov 2019 17:58:55 GMT']
+      Server: [Jetty(9.3.z-SNAPSHOT)]
+      Via: [1.1 varnish (Varnish/5.2)]
+      X-Varnish: ['997132758']
+    status: {code: 200, message: OK}
+version: 1
