@@ -34,10 +34,8 @@ class API(object):
         ping = API._get_url(url)
         return ping['response']['message']
 
-    def Page(self, id, images=2, videos=0, sounds=0,
-             maps=0, text=2, iucn=False, subjects='overview',
-             licences='all', details=True, common_names=True,
-             synonyms=True, references=True, vetted=0):
+    def Page(self, id, images=2, details=True, common_names=True,
+             synonyms=True, references=True):
         '''
          Takes an EOL page identifier and returns the scientific name for that page, and optionally
          returns information about common names, media (text, images and videos), and references to the
@@ -54,7 +52,7 @@ class API(object):
         >>> page.scientific_name
         'Apis mellifera Linnaeus 1758'
         '''
-        return Page(id, images, videos, sounds, maps, text, iucn, subjects, licences, details, common_names, synonyms, references, vetted, self.key)
+        return Page(id, images, details, common_names, synonyms, references, self.key)
 
     def Search(self, q, page=1, exact=False, filter_by_taxon_concept_id='', filter_by_hierarchy_entry_id='',
                filter_by_string='', cache_ttl=''):
@@ -144,35 +142,30 @@ class Page(object):
     Use kwargs to set other attributes
     '''
 
-    def __init__(self, id, images=2, videos=0, sounds=0,
-                 maps=0, text=2, iucn=False, subjects='overview',
-                 licences='all', details=True, common_names=True,
-                 synonyms=True, references=True, vetted=0, key=''):
+    def __init__(self, id, images=2, details=True, common_names=True,
+                 synonyms=True, references=True, key=''):
 
-        attributes = [id, images, videos, sounds, maps, text, API._bool_converter(iucn),
-                      subjects, licences, API._bool_converter(details), API._bool_converter(
-                          common_names), API._bool_converter(synonyms),
-                      API._bool_converter(references), vetted, key]
+        attributes = [id, images, API._bool_converter(details), API._bool_converter(
+            common_names), API._bool_converter(synonyms),
+            API._bool_converter(references), key]
 
         self.id = id
         self.key = key
 
         url = (
-            "http://eol.org/api/pages/1.0/{0}.json?images={1}&videos={2}&sounds={3}"
-            "&maps={4}&text={5}&iucn={6}&subjects={7}&licenses={8}&details={9}&common_names={10}"
-            "&synonyms={11}&references={12}&vetted={13}&cache_ttl=&key={14}".format(
+            "http://eol.org/api/pages/1.0/{0}.json?images={1}&details={2}&common_names={3}"
+            "&synonyms={4}&references={5}&cache_ttl=&key={6}".format(
                 *attributes)
         )
 
         page = API._get_url(url)
 
-        self.scientific_name = page["scientificName"]
-        self.richness_score = page["richness_score"]
-        self.synonyms = page["synonyms"]
-        self.common_names = page["vernacularNames"]
-        self.references = page["references"]
-        self.taxon_concepts = page["taxonConcepts"]
-        self.data_objects = page["dataObjects"]
+        self.scientific_name = page['taxonConcept']["scientificName"]
+        self.richness_score = page['taxonConcept']["richness_score"]
+        self.synonyms = page['taxonConcept']["synonyms"]
+        self.common_names = page['taxonConcept']["vernacularNames"]
+        self.references = page['taxonConcept']["references"]
+        self.taxon_concepts = page['taxonConcept']["taxonConcepts"]
 
 
 class Search(object):
@@ -209,15 +202,15 @@ class Search(object):
                     "&filter_by_hierarchy_entry_id={4}&filter_by_string={5}&cache_ttl={6}&key={7}".format(*attributes))
                 search = API._get_url(url)
                 self.results += search["results"]
-                self.first = search["first"]
-                self.last = search["last"]
+                # self.first = search["first"]
+                # self.last = search["last"]
         else:
             print("Retrieving page {}".format(page))
             self.key = key
             self.results = search["results"]
-            self.first = search["first"]
-            self.self = search["self"]
-            self.last = search["last"]
+            # self.first = search["first"]
+            # self.self = search["self"]
+            # self.last = search["last"]
             try:
                 self.next = search["next"]
             except KeyError:

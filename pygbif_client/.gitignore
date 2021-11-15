@@ -30,6 +30,3 @@ docs/_build/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# scratch files
-scratch.py
-

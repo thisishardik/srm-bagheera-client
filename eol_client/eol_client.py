@@ -39,8 +39,8 @@ class SRMEOLClient():
     def fetchEolPages(self):
         self.taxon_keys = self.fetchTaxonKeys()
 
-        eol_pages = [self.api.Page(id=id, images=10, text=10, details=True, common_names=True, synonyms=True,
-                                   references=True, licences='all') for id in self.taxon_keys]
+        eol_pages = [self.api.Page(id=id, details=True, images=10,
+                                   synonyms=True, common_names=True) for id in self.taxon_keys]
 
         json_data = {
             "timestamp": f"{datetime.datetime.now()}", "all_pages": eol_pages}

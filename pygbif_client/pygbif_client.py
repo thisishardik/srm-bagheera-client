@@ -27,6 +27,28 @@ class SRMGbifClient():
         json_data = {
             "timestamp": f"{datetime.datetime.now()}", "all_occurrences": occs}
 
+        self.writeToFile(json_data)
+        # self.genDensityMaps()
+
+    def writeToFile(self, json_data):
+        if not os.path.exists(os.path.dirname(self.file_path)):
+            try:
+                os.makedirs(os.path.dirname(self.file_path))
+            except OSError as exc:
+                print(exc)
+        with open(self.file_path, 'w') as handle:
+            json.dump(json_data, handle)
+
+    def genDensityMaps(self):
+        f1 = open(self.file_path)
+        data = json.load(f1, )
+        for result in data["all_occurrences"]:
+            for res_no in range(len(result["results"])):
+                self.taxon_keys.append(
+                    result["results"][res_no]["taxonKey"])
+
+        print(self.taxon_keys)
+
         map_out = maps.map(taxonKey=int(self.taxon_keys[0]))
         map_out.response
         map_out.path
