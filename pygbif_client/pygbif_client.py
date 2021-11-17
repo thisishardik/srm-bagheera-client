@@ -33,7 +33,7 @@ class SRMGbifClient():
     def writeToFile(self, json_data):
         if not os.path.exists(os.path.dirname(self.file_path)):
             try:
-                os.makedirs(os.path.dirname(self.file_path))
+                os.makedirs(os.path.dirname(self.file_path), exist_ok=True)
             except OSError as exc:
                 print(exc)
         with open(self.file_path, 'w') as handle:
@@ -62,7 +62,7 @@ if __name__ == '__main__':
     country = "US"
     limit = 10
     taxon_keys = []
-    file_path = "pygbif\gbif_client_output\output.json"
+    file_path = "pygbif_client\gbif_client_output\output.json"
 
     client = SRMGbifClient(species_list, taxon_keys,
                            country, limit, file_path)

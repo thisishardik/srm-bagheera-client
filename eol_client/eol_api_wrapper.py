@@ -246,12 +246,11 @@ class DataObject(object):
             *attributes)
         data_object = API._get_url(url)
         self.identifier = id
-        self.scientific_name = data_object["scientificName"]
-        self.exemplar = data_object["exemplar"]
-        self.richness_score = data_object["richness_score"]
-        self.synonyms = data_object["synonyms"]
-        self.data_objects = data_object["dataObjects"]
-        self.references = data_object["references"]
+        self.scientific_name = data_object["taxon"]["scientificName"]
+        # self.exemplar = data_object["taxon"]["exemplar"]
+        self.richness_score = data_object["taxon"]["richness_score"]
+        self.data_objects = data_object["taxon"]["dataObjects"]
+        self.taxon_concepts = data_object["taxonConcepts"]
 
 
 class Hierachy_entries(object):

@@ -1,456 +1,264 @@
 {
   "data": [
     {
-      "identifier": 6263692,
-      "scientificName": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
-      "nameAccordingTo": "EOL Dynamic Hierarchy 0.9",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "-1573421",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "iNaturalist"
     },
     {
-      "identifier": 10196661,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "iNaturalist",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "https://www.inaturalist.org/taxa/199917"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "Flickr Group"
     },
     {
-      "identifier": 21448870,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Flickr Group",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "a948581d55a8a4b20896ae44d5d3b95b"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "Wikimedia Commons"
     },
     {
-      "identifier": 21517666,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Wikimedia Commons",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "CephBase"
     },
     {
-      "identifier": 21607472,
-      "scientificName": null,
-      "name": null,
-      "nameAccordingTo": "Wikimedia Commons",
-      "canonicalForm": null,
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia \u0440\u0443\u0441\u0441\u043a\u0443\u044e \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044e"
     },
     {
-      "identifier": 24116998,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "CephBase",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "941",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia NL"
     },
     {
-      "identifier": 32054388,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia \u0440\u0443\u0441\u0441\u043a\u0443\u044e \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044e",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia VI"
     },
     {
-      "identifier": 37045664,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia NL",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia CZ"
     },
     {
-      "identifier": 38073086,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia VI",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia PT"
     },
     {
-      "identifier": 38889240,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia CZ",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "preferred",
+      "resource": "wikipedia TR"
     },
     {
-      "identifier": 40632422,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia PT",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Australia Species List"
     },
     {
-      "identifier": 40754826,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia TR",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "China Species List"
     },
     {
-      "identifier": 41723524,
-      "scientificName": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "nameAccordingTo": "EOL Dynamic Hierarchy 1.1",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "EOL-000000734205",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Papua New Guinea Species List"
     },
     {
-      "identifier": 50747117,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Australia Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T139211",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Philippines Species List"
     },
     {
-      "identifier": 51612435,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "China Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T154131",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Taiwan Species List"
     },
     {
-      "identifier": 55047643,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Papua New Guinea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T112240",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Indonesia Species List"
     },
     {
-      "identifier": 55619883,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Philippines Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T105319",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Arafura Sea Species List"
     },
     {
-      "identifier": 56766438,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Taiwan Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T122233",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Banda Sea Species List"
     },
     {
-      "identifier": 65661642,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Indonesia Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T107101",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Bismarck Sea Species List"
     },
     {
-      "identifier": 66936139,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Arafura Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T102863",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Ceram Sea Species List- duplicate"
     },
     {
-      "identifier": 66980116,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Banda Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T107945",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Coral Sea Species List"
     },
     {
-      "identifier": 67061205,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Bismarck Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T107120",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Great Australian Bight Species List"
     },
     {
-      "identifier": 67131994,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Ceram Sea Species List- duplicate",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T102124",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Indian Ocean Species List"
     },
     {
-      "identifier": 67149290,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Coral Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T113297",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Makassar Strait Species List"
     },
     {
-      "identifier": 67242039,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Great Australian Bight Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T107250",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Halmahera Sea Species List"
     },
     {
-      "identifier": 67396638,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Indian Ocean Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T126176",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Molukka Sea Species List"
     },
     {
-      "identifier": 67545199,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Makassar Strait Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T101671",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Philippine Sea Species List"
     },
     {
-      "identifier": 67600902,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Halmahera Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T100932",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Solomon Sea Species List"
     },
     {
-      "identifier": 67735698,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Molukka Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T100562",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "South Pacific Species List"
     },
     {
-      "identifier": 67924151,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Philippine Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T103430",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "NCBI"
     },
     {
-      "identifier": 67985428,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Solomon Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T106371",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "wikipedia IT"
     },
     {
-      "identifier": 68312711,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "South Pacific Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T130563",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "wikipedia ES"
     },
     {
-      "identifier": 70035675,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "NCBI",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "102866",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "EOL authors"
     },
     {
-      "identifier": 71399186,
-      "scientificName": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
-      "nameAccordingTo": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "556376",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "FAO Fishery Statistics"
     },
     {
-      "identifier": 81581165,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia IT",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "wikipedia FR"
     },
     {
-      "identifier": 81851404,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia ES",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Furui 2020"
     },
     {
-      "identifier": 82984467,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "EOL authors",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "491995",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Barcode of Life Data Systems"
     },
     {
-      "identifier": 83650859,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "FAO Fishery Statistics",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "QHL"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Animal Diversity Web"
     },
     {
-      "identifier": 86629174,
-      "scientificName": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "nameAccordingTo": "GBIF classification",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "2289324",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Animal Diversity Web Traits and images"
     },
     {
-      "identifier": 89587924,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia FR",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Ceram Sea Species List"
     },
     {
-      "identifier": 90336442,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Furui 2020",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "491995"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Timor Sea Species List"
     },
     {
-      "identifier": 91122291,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Barcode of Life Data Systems",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "26430",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "wikipedia EN"
     },
     {
-      "identifier": 91744678,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Animal Diversity Web",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Hapalochlaena_lunulata"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Wikidata"
     },
     {
-      "identifier": 97636077,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Animal Diversity Web Traits and images",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Hapalochlaena_lunulata"
+      "synonym": "Hapalochlaena lunulata",
+      "relationship": "accepted",
+      "resource": "Wikipedia (inferred records)"
     },
     {
-      "identifier": 101308038,
-      "scientificName": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "nameAccordingTo": "OBIS environmental data records",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "451348"
+      "synonym": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
+      "relationship": "preferred",
+      "resource": "EOL Dynamic Hierarchy 1.1"
     },
     {
-      "identifier": 102975990,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Ceram Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T102124",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
+      "relationship": "accepted",
+      "resource": "GBIF classification"
     },
     {
-      "identifier": 103106374,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Timor Sea Species List",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "T101956",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
+      "relationship": "accepted",
+      "resource": "OBIS environmental data records"
     },
     {
-      "identifier": 104328657,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "wikipedia EN",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
+      "relationship": "accepted",
+      "resource": "World Register of Marine Species"
     },
     {
-      "identifier": 104863912,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Wikidata",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
+      "relationship": "preferred",
+      "resource": "EOL Dynamic Hierarchy 0.9"
     },
     {
-      "identifier": 105055751,
-      "scientificName": "Hapalochlaena lunulata",
-      "name": "Hapalochlaena lunulata",
-      "nameAccordingTo": "Wikipedia (inferred records)",
-      "canonicalForm": "<i>Hapalochlaena lunulata</i>",
-      "sourceIdentifier": "Q1123809",
-      "taxonRank": "species"
+      "synonym": "Hapalochlaena lunulata (Quoy and Gaimard, 1832)",
+      "relationship": "valid",
+      "resource": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy"
     },
     {
-      "identifier": 108498843,
-      "scientificName": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "name": "Hapalochlaena lunulata (Quoy & Gaimard, 1832)",
-      "nameAccordingTo": "World Register of Marine Species",
-      "canonicalForm": "Hapalochlaena lunulata",
-      "sourceIdentifier": "342333",
-      "taxonRank": "species"
+      "synonym": "Octopus lunulatus Quoy & Gaimard, 1832",
+      "relationship": "synonym",
+      "resource": "EOL Dynamic Hierarchy 1.1"
+    },
+    {
+      "synonym": "Octopus lunulatus Quoy and Gaimard, 1832",
+      "relationship": "invalid",
+      "resource": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy"
     }
   ]
 }

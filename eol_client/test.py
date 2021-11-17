@@ -10,14 +10,13 @@ api = eol.API(key=12345)
 print(api.ping())
 
 # res = api.Search(q="Marchantia", page=1)
-page = api.Page(id=491995, details=True, images=10,
-                synonyms=True, common_names=True)
-# obj = api.DataObject()
+# page = api.Page(id=491995, details=True, images=10,
+#                 synonyms=True, common_names=True)
+obj = api.DataObject(id=12345)
 # hei = api.Hierachy_entries()
-
 # a = []
 # a = res.results
-js_data = {"data": page.taxon_concepts}
+# js_data = {"data": page.synonyms}
 
-with open('sample.json', 'w') as handle:
-    json.dump(js_data, handle)
+# with open('sample.json', 'w') as handle:
+#     json.dump(js_data, handle)

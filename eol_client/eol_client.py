@@ -1,10 +1,17 @@
 import eol_api_wrapper as eol
+from urllib.parse import quote
 import os
 import json
 import jsonify
 import urllib
 import datetime
-from urllib.parse import quote
+from random import random
+import threading
+import time
+from pprint import pprint
+
+# ______ Global variables_______
+eol_pages = []
 
 
 class SRMEOLClient():
@@ -15,7 +22,7 @@ class SRMEOLClient():
         self.page = page
         self.file_path = file_path
 
-    def fetchTaxonKeys(self):
+    def fetch_taxon_keys(self):
         print('Searching occurrences...')
         search_results = []
 
@@ -32,37 +39,74 @@ class SRMEOLClient():
                 self.taxon_keys.append(occurence.results[k]['id'])
 
         print(f"Found {len(self.taxon_keys)} taxonomy identifiers.")
-        print(self.api.ping())
 
         return self.taxon_keys
 
-    def fetchEolPages(self):
-        self.taxon_keys = self.fetchTaxonKeys()
-
+    def fetch_eol_pages(self):
+        self.taxon_keys = self.fetch_taxon_keys()
+        global eol_pages
         eol_pages = [self.api.Page(id=id, details=True, images=10,
                                    synonyms=True, common_names=True) for id in self.taxon_keys]
 
+    def process_threads_pages(self):
+        thread = threading.Thread(target=self.fetch_eol_pages)
+        thread.start()
+        print("Thread started")
+        json_data = {}
+
+        thread.join()
+
+        print(self.api.ping())
+        page_obj = {}
+        eol_pages_list = []
+
+        # print(dir(eol_pages[0]))
+
+        for page in eol_pages:
+            identifier = page.id
+            scientific_name = page.scientific_name
+            richness_score = page.richness_score
+            synonyms = page.synonyms                 # list
+            vernacularNames = page.common_names       # list
+            references = page.references
+            taxon_concepts = page.taxon_concepts     # list
+
+            page_obj = {
+                "identifier": f"{identifier}",
+                "scientific_name": f"{scientific_name}",
+                "richness_score": f"{richness_score}",
+                "synonyms": synonyms,
+                "vernacularNames": vernacularNames,
+                "references": f"{references}",
+                "taxon_concepts": taxon_concepts
+            }
+            eol_pages_list.append(page_obj)
+
+        print(len(eol_pages_list))
+
         json_data = {
-            "timestamp": f"{datetime.datetime.now()}", "all_pages": eol_pages}
+            "timestamp": f"{datetime.datetime.now()}", "all_pages": eol_pages_list}
 
         file_name = "eol_pages.json"
         self.writeDataToFile(file_name, json_data)
 
-    def fetchEolDataObjects(self):
-        self.taxon_keys = self.fetchTaxonKeys()
+    def fetch_eol_data_objects(self):
+        self.taxon_keys = self.fetch_taxon_keys()
 
-        data_objects = [self.api.DataObject(
+        eol_data_objects = [self.api.DataObject(
             id=id) for id in self.taxon_keys]
 
+        print(dir(eol_data_objects[0]))
+
         json_data = {
-            "timestamp": f"{datetime.datetime.now()}", "all_data_objects": data_objects}
+            "timestamp": f"{datetime.datetime.now()}", "all_data_objects": eol_data_objects}
 
         file_name = "eol_data_objects.json"
 
         self.writeDataToFile(file_name, json_data)
 
     def fetchEolHierarchyEntries(self):
-        self.taxon_keys = self.fetchTaxonKeys()
+        self.taxon_keys = self.fetch_taxon_keys()
 
         heirarchy_entries = [self.api.Hierachy_entries(
             id=id, common_names=True, synonyms=True) for id in self.taxon_keys]
@@ -98,7 +142,8 @@ if __name__ == '__main__':
     client = SRMEOLClient(api, species_list, taxon_keys, page,
                           file_path)
 
-    client.fetchEolPages()
+    # client.process_threads_pages()
+    client.fetch_eol_data_objects()
 
     # try:
     #     client.fetchTaxonKeys()
