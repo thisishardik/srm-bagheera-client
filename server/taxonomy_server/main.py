@@ -23,14 +23,16 @@ taxon_args.add_argument(
 
 def abort_if_name_is_missing(names):
     if names is None or len(names[0]) is 0:
-        print("THIS")
-        abort(404)
+        return True
+    else:
+        return False
 
 
-def abort_if_country_is_incorrect(name):
-    if name not in config.COUNTRIES:
-        print("NOT THIS")
-        abort(404)
+def abort_if_country_is_incorrect(country):
+    if config.is_country_verified(country):
+        return False
+    else:
+        return True
 
 
 class TaxonomyResource(Resource):
@@ -38,34 +40,41 @@ class TaxonomyResource(Resource):
 
     def get(self, *args, **kwargs):
         # args = taxon_args.parse_args()
-        query = request.args.get('names').split(',')
-        # abort_if_name_is_missing(query)
+        query_params = request.args.to_dict(flat=False)
 
-        taxon_input_names = [name.replace('%20', " ") for name in query]
+        taxon_names = query_params.get('names')
+        if abort_if_name_is_missing(taxon_names):
+            abort(404)
 
-        country = request.args.get('country', default="US")
-        # abort_if_country_is_incorrect(country)
+        country = request.args.get('country', default="IN")
+        if abort_if_country_is_incorrect(country):
+            abort(404)
 
         limit = request.args.get('limit', default=3)
 
         eol_api_key = eol.API(key=12345)
         eol_pages = 1
 
+        print(taxon_names, country, limit)
+
         try:
-            print(taxon_input_names, country, limit)
-            gbif_client = SRMGbifClient(taxon_input_names, [],
+            eol_client = SRMEOLClient(
+                eol_api_key, taxon_names, [], eol_pages, "")
+            eol_client_res = eol_client.process_threads_pages()
+
+            gbif_client = SRMGbifClient(taxon_names, [],
                                         country, limit, "")
             gbif_client_res = gbif_client.getOccurrence()
-
-            eol_client = SRMEOLClient(
-                eol_api_key, taxon_input_names, [], eol_pages, "")
-            eol_client_res = eol_client.process_threads_pages()
 
             data = {
                 "statusCode": 200,
                 "timestamp": str(datetime.datetime.now()),
                 "gbif_client_res": gbif_client_res,
                 "eol_client_res": eol_client_res,
+                "metadata": {
+                    "country_code": country,
+                    "limit": limit,
+                }
             }
 
             response = jsonify(data)
@@ -73,9 +82,18 @@ class TaxonomyResource(Resource):
             return response
 
         except Exception as e:
-            return Response(status=500)
+            data = {
+                "timestamp": str(datetime.datetime.now()),
+                "statusCode": 500,
+                "message": "Internal Server Error. The server has encountered a situation it does not know how to handle."
+            }
+
+            response = jsonify(data)
+
+            return response
 
 
+"""https://xk01e5qt90.api.srm.amazonaws.com/v1/"""
 api.add_resource(TaxonomyResource, "/taxon")
 
 if __name__ == '__main__':

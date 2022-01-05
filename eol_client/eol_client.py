@@ -1,5 +1,5 @@
-# from . import eol_api_wrapper as eol
-import eol_api_wrapper as eol
+from . import eol_api_wrapper as eol
+# import eol_api_wrapper as eol
 from urllib.parse import quote
 import os
 import json
@@ -82,8 +82,6 @@ class SRMEOLClient():
                 "taxon_concepts": taxon_concepts
             }
             eol_pages_list.append(page_obj)
-
-        print(len(eol_pages_list))
 
         json_data = {
             # "timestamp": f"{datetime.datetime.now()}",

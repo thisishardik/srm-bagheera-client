@@ -1,4 +1,5 @@
 import requests
+import pycountry
 
 BASE = "http://127.0.0.1:5000/"
 
@@ -236,5 +237,19 @@ COUNTRIES = [
     ('ZW', 'Zimbabwe')
 ]
 
-# response = requests.get(BASE + 'hello/', data={"name": "test"})
-# print(response.json())
+
+def is_country_verified(code):
+    if pycountry.countries.lookup(code):
+        return True
+    else:
+        return False
+
+
+def run_test_response():
+    response = requests.get(BASE + 'taxon', params={
+        "names": ['Ursidae', 'Cyanocitta stelleri',  'Poa annuus'],
+        "country": "US",
+        "limit": 5,
+    })
+    print(response.status_code)
+    print(response.url)
