@@ -25,10 +25,14 @@ class SRMGbifClient():
         print(f"Found {len(occs)} occurrences")
 
         json_data = {
-            "timestamp": f"{datetime.datetime.now()}", "all_occurrences": occs}
+            # "timestamp": f"{datetime.datetime.now()}",
+            "all_occurrences": occs,
+        }
 
-        self.writeToFile(json_data)
+        # self.writeToFile(json_data)
         # self.genDensityMaps()
+
+        return json_data
 
     def writeToFile(self, json_data):
         if not os.path.exists(os.path.dirname(self.file_path)):

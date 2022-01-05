@@ -1,3 +1,4 @@
+# from . import eol_api_wrapper as eol
 import eol_api_wrapper as eol
 from urllib.parse import quote
 import os
@@ -85,10 +86,14 @@ class SRMEOLClient():
         print(len(eol_pages_list))
 
         json_data = {
-            "timestamp": f"{datetime.datetime.now()}", "all_pages": eol_pages_list}
+            # "timestamp": f"{datetime.datetime.now()}",
+            "all_pages": eol_pages_list,
+        }
 
-        file_name = "eol_client_output.json"
-        self.writeDataToFile(file_name, json_data)
+        # file_name = "eol_client_output.json"
+        # self.writeDataToFile(file_name, json_data)
+
+        return json_data
 
     def fetch_eol_data_objects(self):
         self.taxon_keys = self.fetch_taxon_keys()
