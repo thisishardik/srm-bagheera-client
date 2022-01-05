@@ -87,7 +87,7 @@ class SRMEOLClient():
         json_data = {
             "timestamp": f"{datetime.datetime.now()}", "all_pages": eol_pages_list}
 
-        file_name = "eol_pages.json"
+        file_name = "eol_client_output.json"
         self.writeDataToFile(file_name, json_data)
 
     def fetch_eol_data_objects(self):
@@ -133,7 +133,8 @@ class SRMEOLClient():
 
 
 if __name__ == '__main__':
-    species_list = ['Marchantia']
+    species_list = ['Cyanocitta stelleri',  'Poa annuus', 'Aix sponsa',
+                    'Ursus americanus', 'Pinus conorta']
     api = eol.API(key=12345)
     taxon_keys = []
     page = 1
@@ -142,8 +143,8 @@ if __name__ == '__main__':
     client = SRMEOLClient(api, species_list, taxon_keys, page,
                           file_path)
 
-    # client.process_threads_pages()
-    client.fetch_eol_data_objects()
+    client.process_threads_pages()
+    # client.fetch_eol_data_objects()
 
     # try:
     #     client.fetchTaxonKeys()

@@ -1,0 +1,3522 @@
+{
+  "timestamp": "2022-01-05 00:54:43.646500",
+  "all_pages": [
+    {
+      "identifier": "7664",
+      "scientific_name": "Ursidae",
+      "richness_score": "None",
+      "synonyms": [
+        {
+          "synonym": "? aurelianensis Mayet, 1908",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? baconi Woodward, 1915",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? depereti Viret, 1929",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? enectum Ameghino, 1904",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? ferox Desmarest, 1817",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? filholi Filhol, 1877",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? fovealis Matthew & Granger, 1923",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? haplodon Cope, 1896",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? helveticus R\u00fctimeyer, 1862",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? johnhenryi White, 1947",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? ornatus Cuvier, 1825",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? pamparum Ameghino, 1904",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? simum Cope, 1879",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? teilhardi Matthew & Granger, 1924",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? vetustum Ameghino, 1885",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? wulingshanensis Wang et al., 1982",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "? yukonensis Lambe, 1911",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Agriarctos Kretzoi, 1942",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Ailurarctos Qiu Zhanxiang & Qi Guoquin, 1989",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Ailuropodidae",
+          "relationship": "synonym",
+          "resource": "Dynamic Hierarchy Synonyms"
+        },
+        {
+          "synonym": "Ailuropodidae",
+          "relationship": "synonym",
+          "resource": "EOL Dynamic Hierarchy 1.1"
+        },
+        {
+          "synonym": "Harpaleocyon H\u00fcrzeler, 1944",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Metarctos Gaudry, 1860",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Thalarctos Gray, 1825",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Thaumastocyon Stehlin & Helbing, 1925",
+          "relationship": "doubtful",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "EOL Dynamic Hierarchy 0.9"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "iNaturalist"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Flickr Group"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "Wikimedia Commons"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "CalPhotos"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "Dynamic Hierarchy Synonyms"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "AnAge articles"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia \u4e2d\u6587\u7ef4\u57fa\u767e\u79d1"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia \u65e5\u672c\u8a9e"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia \u0440\u0443\u0441\u0441\u043a\u0443\u044e \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044e"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia \ud55c\uad6d\uc5b4 \uc704\ud0a4\ubc31\uacfc"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia DE"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia NL"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia POL"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia VI"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia CZ"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia FI"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia NO"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia RO"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia UK"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia CA"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia SV"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia PT"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "wikipedia TR"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "preferred",
+          "resource": "EOL Dynamic Hierarchy 1.1"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Kissling et al, 2014"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Albania Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Algeria Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Andorra Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Austria Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Belgium Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Bolivia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Brazil Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Cambodia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Canada Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "China Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Colombia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Croatia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Czech Republic Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Denmark Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Ecuador Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Estonia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Finland Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "France Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Georgia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Germany Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Greece Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Greenland Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Hungary Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "India Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Iran Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Iraq Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Ireland Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Israel Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Italy Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Kazakhstan Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Laos Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Latvia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Luxembourg Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Malaysia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Mongolia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Morocco Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Myanmar Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Nepal Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Norway Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Peru Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Poland Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Romania Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Russia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Serbia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Slovakia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Slovenia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "South Korea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Spain Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Sweden Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Switzerland Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Taiwan Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Thailand Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Tibet Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Sri Lanka Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Turkey Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Ukraine Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "United Kingdom Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Venezuela Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Vietnam Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia ID"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Argentina Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Japan Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "English Vernaculars for Landmark Taxa"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia EU"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia CY"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Indonesia Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Mexico Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Baffin Bay Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Arctic Ocean Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Barents Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Beaufort Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Bering Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Chukchi Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Davis Strait Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "East Siberian Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Greenland Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Indian Ocean Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Lincoln Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Hudson Strait Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Hudson Bay Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "North Atlantic Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "North Pacific Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Northwestern Passages Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "North Sea Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Skagerrak Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Arkive"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia AST"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia AZ"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia AF"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia LT"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia ET"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia BR"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia hr Croatian"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia DA"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia LA"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia MS"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia SK"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia NN"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia LV"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia IS"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia SL"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia HSB"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia GA"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "NCBI"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia EO"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Biopix Nature Photos"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia IT"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia ES"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia emerging languages"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia emerging_languages"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia MIN"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "EOL authors"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "EOL authors"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "FAO Fishery Statistics"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Lovegrove and Haines 2004"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia gl Galician"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "GBIF classification"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia FR"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Furui 2020"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Barcode of Life Data Systems"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "NCBI GGBN GBIF BHL BOLDS data coverage"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Animal Diversity Web"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Animal Diversity Web"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Conabio"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Anderson and Wiens 2017"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Animal Diversity Web Traits and images"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Lovegrove 2014"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Wildfinder (WWF)"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "OBIS environmental data records"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Pantheria"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "AnAge"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Morgan Ernest 2003"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Smith et al 2011"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "GBIF national node type records UK"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "GBIF national node type records France"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "CITES"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "CITES"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "IUCN"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Harvard Museum of Comparative Zoology"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "United States Species List"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "NMNH Collection"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "wikipedia EN"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Wikidata"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Wikipedia (inferred records)"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Global Biotic Interactions"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Global Biotic Interactions"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "Paleobiology Database"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "accepted",
+          "resource": "Paleobiology Database"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "World Register of Marine Species"
+        },
+        {
+          "synonym": "Ursidae",
+          "relationship": "harvest ancestor",
+          "resource": "NMNH type specimens"
+        },
+        {
+          "synonym": "Ursidae Fischer de Waldheim, 1817",
+          "relationship": "valid",
+          "resource": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy"
+        },
+        {
+          "synonym": "Ursidae Fischer, 1817",
+          "relationship": "accepted",
+          "resource": "World Register of Marine Species"
+        },
+        {
+          "synonym": "Ursidae Gray 1825",
+          "relationship": "harvest ancestor",
+          "resource": "EOL authors"
+        },
+        {
+          "synonym": "Ursinae Fischer de Waldheim, 1817",
+          "relationship": "invalid",
+          "resource": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy"
+        }
+      ],
+      "vernacularNames": [
+        {
+          "vernacularName": "\u30af\u30de\u79d1",
+          "language": "jp",
+          "eol_preferred": false
+        },
+        { "vernacularName": "Ursids", "language": "oc", "eol_preferred": true },
+        {
+          "vernacularName": "\u30af\u30de\u79d1",
+          "language": "jp",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "Ursids",
+          "language": "oc",
+          "eol_preferred": false
+        },
+        { "vernacularName": "bears", "language": "en", "eol_preferred": true },
+        {
+          "vernacularName": "\u30af\u30de\u79d1",
+          "language": "jp",
+          "eol_preferred": true
+        },
+        { "vernacularName": "bears", "language": "en", "eol_preferred": false },
+        {
+          "vernacularName": "Bears, Giant Panda",
+          "language": "en",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "Osos, Panda Gigante",
+          "language": "es",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "Ours, Panda G\u00e9ant",
+          "language": "fr",
+          "eol_preferred": false
+        },
+        { "vernacularName": "Ariu", "language": "sq", "eol_preferred": true },
+        { "vernacularName": "Arth", "language": "cy", "eol_preferred": true },
+        { "vernacularName": "Arth", "language": "kw", "eol_preferred": true },
+        { "vernacularName": "Arzh", "language": "br", "eol_preferred": true },
+        {
+          "vernacularName": "Ayiqlar",
+          "language": "uz",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Ay\u0131giller",
+          "language": "tr",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Ay\u0131kimil\u0259r",
+          "language": "az",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Ay\u0131wlar",
+          "language": "q33541",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Bear", "language": "bi", "eol_preferred": true },
+        { "vernacularName": "Bearen", "language": "fy", "eol_preferred": true },
+        { "vernacularName": "Bears", "language": "en", "eol_preferred": false },
+        { "vernacularName": "Beer", "language": "af", "eol_preferred": true },
+        { "vernacularName": "Beer", "language": "nl", "eol_preferred": true },
+        {
+          "vernacularName": "Beeren",
+          "language": "q28224",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Beirn", "language": "vls", "eol_preferred": true },
+        { "vernacularName": "Bera", "language": "en", "eol_preferred": true },
+        { "vernacularName": "Bera", "language": "mg", "eol_preferred": true },
+        { "vernacularName": "Bere", "language": "li", "eol_preferred": true },
+        { "vernacularName": "Bero", "language": "vec", "eol_preferred": true },
+        {
+          "vernacularName": "Beruang",
+          "language": "id",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Beruang",
+          "language": "ms",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Bieren", "language": "lb", "eol_preferred": true },
+        { "vernacularName": "Birnir", "language": "is", "eol_preferred": true },
+        {
+          "vernacularName": "Biruang",
+          "language": "su",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Bjarnir",
+          "language": "fo",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Bj\u00f6rnar",
+          "language": "sv",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Bj\u00f8rn",
+          "language": "da",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Bj\u00f8rn",
+          "language": "no",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Boare", "language": "stq", "eol_preferred": true },
+        {
+          "vernacularName": "Bruwang",
+          "language": "jv",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Bur kondi",
+          "language": "q32747",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Buti", "language": "so", "eol_preferred": true },
+        {
+          "vernacularName": "B\u00e4ren",
+          "language": "de",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "B\u00e9ar",
+          "language": "ga",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "B\u025b\u025b",
+          "language": "q32238",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Dabbar beya",
+          "language": "ha",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Dubu", "language": "sw", "eol_preferred": true },
+        {
+          "vernacularName": "G\u1ea5u \u0110\u1ecbnh",
+          "language": "vi",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Hartz", "language": "eu", "eol_preferred": true },
+        {
+          "vernacularName": "He\u015f",
+          "language": "diq",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Hir\u00e7",
+          "language": "ku",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "H\u00eem",
+          "language": "nan",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "H\u1e73\u0300ng",
+          "language": "q36455",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Jukumari",
+          "language": "ay",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Karhu", "language": "fi", "eol_preferred": true },
+        {
+          "vernacularName": "Karulased",
+          "language": "et",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Lonso", "language": "en", "eol_preferred": true },
+        { "vernacularName": "Lores", "language": "lld", "eol_preferred": true },
+        { "vernacularName": "Lous", "language": "ht", "eol_preferred": true },
+        {
+          "vernacularName": "L\u0101\u010di",
+          "language": "lv",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Masko", "language": "cr", "eol_preferred": true },
+        { "vernacularName": "Mathan", "language": "gd", "eol_preferred": true },
+        {
+          "vernacularName": "Medvedi",
+          "language": "es",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Medvef\u00e9l\u00e9k",
+          "language": "hu",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Medvjed",
+          "language": "bs",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Medvjed",
+          "language": "q3788739",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Medvjedi",
+          "language": "hr",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Medv\u011bdovit\u00ed",
+          "language": "cs",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Me\u0161kos (lokiai)",
+          "language": "lt",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Mjadwje\u017ae",
+          "language": "q13286",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Mjedwjed\u017ae",
+          "language": "q13248",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Mui", "language": "za", "eol_preferred": true },
+        {
+          "vernacularName": "Nita",
+          "language": "q32979",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "N\u00e1hkohe",
+          "language": "en",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Onso", "language": "an", "eol_preferred": true },
+        { "vernacularName": "Ors", "language": "oc", "eol_preferred": true },
+        {
+          "vernacularName": "Ors",
+          "language": "q34024",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Orsu", "language": "co", "eol_preferred": true },
+        { "vernacularName": "Oso", "language": "es", "eol_preferred": true },
+        { "vernacularName": "Oso", "language": "bcl", "eol_preferred": true },
+        {
+          "vernacularName": "Oso",
+          "language": "q33239",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Oso", "language": "gl", "eol_preferred": true },
+        { "vernacularName": "Oso", "language": "tl", "eol_preferred": true },
+        {
+          "vernacularName": "Osu",
+          "language": "q29507",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Osu",
+          "language": "q36121",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Pea", "language": "mi", "eol_preferred": true },
+        {
+          "vernacularName": "P\u028a\u028a ha\u0263",
+          "language": "q35475",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Shash", "language": "nv", "eol_preferred": true },
+        { "vernacularName": "Sisire", "language": "ak", "eol_preferred": true },
+        {
+          "vernacularName": "Tl\u0101cam\u0101yeh",
+          "language": "q13300",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Ukumari",
+          "language": "qu",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Urs", "language": "ro", "eol_preferred": true },
+        { "vernacularName": "Ursida", "language": "sk", "eol_preferred": true },
+        {
+          "vernacularName": "Ursid\u00e9s",
+          "language": "fr",
+          "eol_preferred": true
+        },
+        { "vernacularName": "Urso", "language": "eo", "eol_preferred": true },
+        { "vernacularName": "Urso", "language": "io", "eol_preferred": true },
+        {
+          "vernacularName": "Urso",
+          "language": "q146803",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Ursuten",
+          "language": "q35853",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Urs\u00e2",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Urs\u00eddeos/Ursos",
+          "language": "pt",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Urzo",
+          "language": "q33845",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "Y\u00f9ng",
+          "language": "hak",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "beir",
+          "language": "q14549",
+          "eol_preferred": true
+        },
+        { "vernacularName": "bierna", "language": "en", "eol_preferred": true },
+        {
+          "vernacularName": "bj\u00f8rnefamilien",
+          "language": "no",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "b\u00efernh",
+          "language": "en",
+          "eol_preferred": true
+        },
+        { "vernacularName": "cribe", "language": "en", "eol_preferred": true },
+        {
+          "vernacularName": "guov\u017e\u017eat",
+          "language": "se",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "kuob\u017eah",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "masko",
+          "language": "q56590",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "nied\u017awiedziowate",
+          "language": "pl",
+          "eol_preferred": true
+        },
+        { "vernacularName": "orso", "language": "it", "eol_preferred": true },
+        {
+          "vernacularName": "rupoleem",
+          "language": "en",
+          "eol_preferred": true
+        },
+        { "vernacularName": "tumay", "language": "szy", "eol_preferred": true },
+        {
+          "vernacularName": "ursu",
+          "language": "q33973",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u00d3s",
+          "language": "ca",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u00d4rs",
+          "language": "frp",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0391\u03c1\u03ba\u03bf\u03cd\u03b4\u03b1",
+          "language": "el",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u0434\u044b\u0433",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u0439\u044b\u0443",
+          "language": "ba",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u0440\u0441",
+          "language": "os",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u044e",
+          "language": "q33634",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u044e\u043b\u0430\u0440",
+          "language": "kk",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u044e\u0441\u044b\u043c\u0430\u043d\u043d\u0430\u0440",
+          "language": "tt",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0410\u044e\u0443\u043b\u0430\u0440",
+          "language": "ky",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0411\u0430\u0430\u0431\u0433\u0430\u0439",
+          "language": "bxr",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0411\u0430\u0430\u0432\u0433\u0430\u0439",
+          "language": "mn",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0412\u0435\u0434\u043c\u0435\u0436\u0456",
+          "language": "uk",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0413\u043e\u043d\u0434\u044b\u0440",
+          "language": "q13238",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u0430\u0441\u043a\u0430",
+          "language": "q3906614",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u0435\u0434\u0432\u0435\u0436\u044c\u0438",
+          "language": "ru",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u0435\u0447\u043a\u043e\u0432\u0438",
+          "language": "bg",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u044b\u0448\u044a\u044d",
+          "language": "q27776",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u044b\u0448\u044a\u044d",
+          "language": "q33522",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041c\u04e7\u0441\u043a\u04d3",
+          "language": "mrj",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041d\u0430\u043d\u0430-\u0447\u0430",
+          "language": "ce",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041e\u0444\u0442\u0430",
+          "language": "q13343",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041e\u0448 \u043a\u043e\u0442\u044b\u0440",
+          "language": "kv",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u041e\u0448",
+          "language": "kv",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0421\u0435\u0432",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0423\u043f\u0430 \u0439\u044b\u0448\u0448\u0438\u0441\u0435\u043c",
+          "language": "cv",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0425\u0438\u0440\u0441",
+          "language": "tg",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0426\u0438",
+          "language": "av",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0426\u0443\u0448\u0430",
+          "language": "q36206",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0427\u0430\u0440\u0447\u0430",
+          "language": "q33509",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u042d\u04bb\u044d",
+          "language": "q34299",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u043c\u0435\u0434\u0432\u0435\u0434",
+          "language": "sr",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u043c\u0435\u0434\u0432\u0435\u0434",
+          "language": "sr-ec",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u043c\u0435\u0447\u043a\u0430",
+          "language": "mk",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u043c\u044f\u0434\u0437\u0432\u0435\u0434\u0437\u0435\u0432\u044b\u044f",
+          "language": "be",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u043c\u044f\u0434\u0437\u044c\u0432\u0435\u0434\u0437\u0435\u0432\u044b\u044f",
+          "language": "be",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "\u043e\u0432\u0442\u043e",
+          "language": "q29952",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0531\u0580\u057b",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0561\u0580\u057b\u0565\u0580",
+          "language": "hy",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u05d1\u05e2\u05e8",
+          "language": "yi",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u05d3\u05d5\u05d1\u05d9\u05d9\u05dd",
+          "language": "he",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0622\u0626\u064a(\u0622\u06cc\u06cc)",
+          "language": "azb",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0626\u06d0\u064a\u0649\u0642",
+          "language": "ug",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0627\u0634",
+          "language": "mzn",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u062e\u0631\u0633",
+          "language": "fa",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u062f\u0628",
+          "language": "ar",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u062f\u0628\u062f\u0648\u0628",
+          "language": "arz",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0631\u0686\u06be",
+          "language": "pnb",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0631\u06cc\u0686\u06be",
+          "language": "ur",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0648\u0631\u0686",
+          "language": "ckb",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u064a\u0696",
+          "language": "ps",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u06c1\u0627\u067e\u064f\u062a\u06be",
+          "language": "ks",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0715\u0712\u0710",
+          "language": "q28602",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0905\u0938\u094d\u0935\u0932",
+          "language": "mr",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u092d\u093e\u0932\u0941",
+          "language": "q36109",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u092d\u093e\u0932\u0941",
+          "language": "ne",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u092d\u093e\u0932\u0942",
+          "language": "hi",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u092e\u093e\u0915\u0903\u0927\u0941\u0901",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u09ad\u09be\u09b2\u09c1\u0995",
+          "language": "as",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u09ad\u09be\u09b2\u09cd\u09b2\u09c1\u0995",
+          "language": "bn",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0a30\u0a3f\u0a71\u0a1b",
+          "language": "pa",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0ab0\u0ac0\u0a82\u0a9b",
+          "language": "gu",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0b95\u0bb0\u0b9f\u0bbf",
+          "language": "ta",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0c0e\u0c32\u0c41\u0c17\u0c41\u0c2c\u0c02\u0c1f\u0c3f",
+          "language": "te",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0c95\u0cb0\u0ca1\u0cbf",
+          "language": "kn",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0c95\u0cb0\u0ca1\u0cbf",
+          "language": "tcy",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0d15\u0d30\u0d1f\u0d3f",
+          "language": "ml",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0e2b\u0e21\u0e35",
+          "language": "th",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0edd\u0eb5",
+          "language": "lo",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u0f51\u0f7c\u0f58\u0f0d",
+          "language": "bo",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u101d\u1000\u103a\u101d\u1036",
+          "language": "my",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u10d3\u10d0\u10d7\u10d5\u10d8\u10e1\u10d4\u10d1\u10e0\u10dc\u10d8",
+          "language": "ka",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u12f5\u1265",
+          "language": "am",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u13f2\u13be",
+          "language": "en",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u140a\u144e\u1585\u1433\u1585",
+          "language": "iu",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u1c75\u1c5f\u1c71\u1c5f",
+          "language": "q33965",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u30af\u30de\u79d1",
+          "language": "jp",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a",
+          "language": "gan",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a",
+          "language": "yue",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a\u79d1",
+          "language": "zh",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a\u79d1",
+          "language": "q34290",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a\u79d1",
+          "language": "zh-cn",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a\u79d1",
+          "language": "zh-tw",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "\u718a\u7f86",
+          "language": "lzh",
+          "eol_preferred": true
+        },
+        { "vernacularName": "\uacf0", "language": "ko", "eol_preferred": true },
+        { "vernacularName": "bear", "language": "en", "eol_preferred": false },
+        {
+          "vernacularName": "B\u00e4ren",
+          "language": "de",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "ay\u0131giller",
+          "language": "tr",
+          "eol_preferred": false
+        },
+        { "vernacularName": "bears", "language": "en", "eol_preferred": false },
+        {
+          "vernacularName": "bj\u00f6rnar",
+          "language": "sv",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "bj\u00f8rnefamilien",
+          "language": "no",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "bj\u00f8rnefamilien",
+          "language": "no",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "bj\u00f8rnefamilien",
+          "language": "no",
+          "eol_preferred": true
+        },
+        {
+          "vernacularName": "lokiniai",
+          "language": "lt",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "medvedi",
+          "language": "es",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "nied\u017awiedziowate",
+          "language": "pl",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "orsidi",
+          "language": "it",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "\u0391\u03c1\u03ba\u03c4\u03af\u03b4\u03b5\u03c2",
+          "language": "el",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "\u0412\u0435\u0434\u043c\u0435\u0434\u0435\u0432\u0456",
+          "language": "uk",
+          "eol_preferred": false
+        },
+        {
+          "vernacularName": "\u043c\u0435\u0434\u0432\u0435\u0301\u0436\u044c\u0438",
+          "language": "ru",
+          "eol_preferred": false
+        }
+      ],
+      "references": "None",
+      "taxon_concepts": [
+        {
+          "identifier": 6983428,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "EOL Dynamic Hierarchy 0.9",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "-2229313",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 10178221,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "iNaturalist",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21397026,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Flickr Group",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21408280,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Flickr Group",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21417922,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Flickr Group",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21440022,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Flickr Group",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21440756,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Flickr Group",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 21518471,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Wikimedia Commons",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 21608277,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Wikimedia Commons",
+          "canonicalForm": null,
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 22213207,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "CalPhotos",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "7bd87607ec47cc9a4c73fbcc29a54d6c"
+        },
+        {
+          "identifier": 22259004,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Dynamic Hierarchy Synonyms",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "-2229313",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 26025736,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "AnAge articles",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 31714900,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia \u4e2d\u6587\u7ef4\u57fa\u767e\u79d1",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 31954777,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia \u65e5\u672c\u8a9e",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 32054933,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia \u0440\u0443\u0441\u0441\u043a\u0443\u044e \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044e",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 32118310,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia \ud55c\uad6d\uc5b4 \uc704\ud0a4\ubc31\uacfc",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 32230827,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia DE",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 37046818,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia NL",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 37974875,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia POL",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 38074414,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia VI",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 38889533,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia CZ",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40123431,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia FI",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40155904,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia NO",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40220654,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia RO",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40286965,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia UK",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40322330,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia CA",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40563477,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia SV",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40633024,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia PT",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 40755005,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia TR",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 41620556,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "EOL Dynamic Hierarchy 1.1",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "EOL-000000631237",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 44476076,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Kissling et al, 2014",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 49854888,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Albania Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100690"
+        },
+        {
+          "identifier": 49867650,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Algeria Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T105288"
+        },
+        {
+          "identifier": 49881198,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Andorra Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102484"
+        },
+        {
+          "identifier": 50025016,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Austria Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T109494"
+        },
+        {
+          "identifier": 50947697,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Belgium Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T106343"
+        },
+        {
+          "identifier": 51081684,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Bolivia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T118519"
+        },
+        {
+          "identifier": 51254854,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Brazil Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T181800"
+        },
+        {
+          "identifier": 51336376,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Cambodia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103370"
+        },
+        {
+          "identifier": 51375369,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Canada Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101363"
+        },
+        {
+          "identifier": 51573106,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "China Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T114799"
+        },
+        {
+          "identifier": 51708530,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Colombia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T110959"
+        },
+        {
+          "identifier": 51892444,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Croatia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100327"
+        },
+        {
+          "identifier": 51923215,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Czech Republic Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100372"
+        },
+        {
+          "identifier": 52000700,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Denmark Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T124864"
+        },
+        {
+          "identifier": 52052906,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Ecuador Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T113844"
+        },
+        {
+          "identifier": 52158202,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Estonia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100358"
+        },
+        {
+          "identifier": 52316825,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Finland Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T115385"
+        },
+        {
+          "identifier": 52347004,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "France Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T108717"
+        },
+        {
+          "identifier": 52465600,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Georgia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102386"
+        },
+        {
+          "identifier": 52473556,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Germany Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102144"
+        },
+        {
+          "identifier": 52655113,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Greece Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T119009"
+        },
+        {
+          "identifier": 52678498,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Greenland Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101255"
+        },
+        {
+          "identifier": 52892518,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Hungary Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100789"
+        },
+        {
+          "identifier": 52919340,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "India Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103071"
+        },
+        {
+          "identifier": 53159910,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Iran Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101957"
+        },
+        {
+          "identifier": 53179259,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Iraq Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100911"
+        },
+        {
+          "identifier": 53200664,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Ireland Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T118253"
+        },
+        {
+          "identifier": 53243632,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Israel Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103808"
+        },
+        {
+          "identifier": 53264253,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Italy Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T108029"
+        },
+        {
+          "identifier": 53445378,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Kazakhstan Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102793"
+        },
+        {
+          "identifier": 53508695,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Laos Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103649"
+        },
+        {
+          "identifier": 53516555,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Latvia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101349"
+        },
+        {
+          "identifier": 53571997,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Luxembourg Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T120895"
+        },
+        {
+          "identifier": 53648769,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Malaysia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T106942"
+        },
+        {
+          "identifier": 53860635,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Mongolia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100134"
+        },
+        {
+          "identifier": 53882286,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Morocco Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T108585"
+        },
+        {
+          "identifier": 53959946,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Myanmar Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T104224"
+        },
+        {
+          "identifier": 53993736,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Nepal Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T104861"
+        },
+        {
+          "identifier": 54861880,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Norway Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100454"
+        },
+        {
+          "identifier": 55502957,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Peru Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T108761"
+        },
+        {
+          "identifier": 55681746,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Poland Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101167"
+        },
+        {
+          "identifier": 55789693,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Romania Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100551"
+        },
+        {
+          "identifier": 55806119,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Russia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100588"
+        },
+        {
+          "identifier": 55930033,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Serbia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100372"
+        },
+        {
+          "identifier": 55975295,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Slovakia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100072"
+        },
+        {
+          "identifier": 56001133,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Slovenia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T109730"
+        },
+        {
+          "identifier": 56198956,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "South Korea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102612"
+        },
+        {
+          "identifier": 56489594,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Spain Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103422"
+        },
+        {
+          "identifier": 56579876,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Sweden Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103582"
+        },
+        {
+          "identifier": 56710110,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Switzerland Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102775"
+        },
+        {
+          "identifier": 56767423,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Taiwan Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T123218"
+        },
+        {
+          "identifier": 56824171,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Thailand Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T107346"
+        },
+        {
+          "identifier": 56986087,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Tibet Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103304"
+        },
+        {
+          "identifier": 57013709,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Sri Lanka Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102281"
+        },
+        {
+          "identifier": 57057036,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Turkey Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T104650"
+        },
+        {
+          "identifier": 57111951,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Ukraine Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T104264"
+        },
+        {
+          "identifier": 57156617,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "United Kingdom Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T136607"
+        },
+        {
+          "identifier": 57275754,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Venezuela Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T124623"
+        },
+        {
+          "identifier": 57322411,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Vietnam Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T105791"
+        },
+        {
+          "identifier": 58802623,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia ID",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 58961583,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Argentina Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T125598"
+        },
+        {
+          "identifier": 59027752,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Japan Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T126062"
+        },
+        {
+          "identifier": 59371204,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "English Vernaculars for Landmark Taxa",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "EOL-000000631237"
+        },
+        {
+          "identifier": 59417218,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia EU",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 60440151,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia CY",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 65672300,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Indonesia Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T117776"
+        },
+        {
+          "identifier": 65725254,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Mexico Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T105176"
+        },
+        {
+          "identifier": 66949875,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Baffin Bay Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100211"
+        },
+        {
+          "identifier": 66969012,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Arctic Ocean Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100931"
+        },
+        {
+          "identifier": 66989962,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Barents Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101399"
+        },
+        {
+          "identifier": 67025543,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Beaufort Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100111"
+        },
+        {
+          "identifier": 67030063,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Bering Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100536"
+        },
+        {
+          "identifier": 67134085,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Chukchi Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100120"
+        },
+        {
+          "identifier": 67202580,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Davis Strait Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T101041"
+        },
+        {
+          "identifier": 67205784,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "East Siberian Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100141"
+        },
+        {
+          "identifier": 67251761,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Greenland Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100557"
+        },
+        {
+          "identifier": 67425285,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Indian Ocean Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T154853"
+        },
+        {
+          "identifier": 67596876,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Lincoln Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100105"
+        },
+        {
+          "identifier": 67597082,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Hudson Strait Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100181"
+        },
+        {
+          "identifier": 67598042,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Hudson Bay Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100118"
+        },
+        {
+          "identifier": 67618249,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "North Atlantic Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T114197"
+        },
+        {
+          "identifier": 67746470,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "North Pacific Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T103164"
+        },
+        {
+          "identifier": 67874582,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Northwestern Passages Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T100185"
+        },
+        {
+          "identifier": 67890138,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "North Sea Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T111723"
+        },
+        {
+          "identifier": 67977443,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Skagerrak Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T106598"
+        },
+        {
+          "identifier": 68420562,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Arkive",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 68425986,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia AST",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68458368,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia AZ",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68506140,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia AF",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68522803,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia LT",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68539296,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia ET",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68578059,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia BR",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68593981,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia hr Croatian",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68683087,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia DA",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68699245,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia LA",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68720155,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia MS",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68732366,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia SK",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68740620,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia NN",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68748765,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia LV",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68757125,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia IS",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68765139,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia SL",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68773120,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia HSB",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 68789712,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia GA",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 70872866,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "NCBI",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "9632",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 71326787,
+          "scientificName": "Ursidae Fischer de Waldheim, 1817",
+          "name": "Ursidae Fischer de Waldheim, 1817",
+          "nameAccordingTo": "Integrated Taxonomic Information System (ITIS) Taxonomic Hierarchy",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "180540",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 81547034,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia EO",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 81563136,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Biopix Nature Photos",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "7bd87607ec47cc9a4c73fbcc29a54d6c",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 81581771,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia IT",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 81852579,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia ES",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 82497870,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia emerging languages",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 82734207,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia emerging_languages",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 82750497,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia MIN",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 82975954,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "EOL authors",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 82983122,
+          "scientificName": "Ursidae Gray 1825",
+          "name": "Ursidae Gray 1825",
+          "nameAccordingTo": "EOL authors",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae Gray 1825"
+        },
+        {
+          "identifier": 82986902,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "EOL authors",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "7664",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 83642014,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "FAO Fishery Statistics",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 83744062,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Lovegrove and Haines 2004",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 83746184,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia gl Galician",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 88738991,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "GBIF classification",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "9681",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 89588765,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia FR",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 90344241,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Furui 2020",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "7664"
+        },
+        {
+          "identifier": 91064105,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Barcode of Life Data Systems",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "1408",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 91582384,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "NCBI GGBN GBIF BHL BOLDS data coverage",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 91741909,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Animal Diversity Web",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 94590314,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Conabio",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 97263850,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Anderson and Wiens 2017",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 97630988,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Animal Diversity Web Traits and images",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 99124153,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Lovegrove 2014",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101205037,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Wildfinder (WWF)",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101414466,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "OBIS environmental data records",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "780741"
+        },
+        {
+          "identifier": 101488223,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Pantheria",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101530072,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "AnAge",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101615009,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Morgan Ernest 2003",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101631954,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Smith et al 2011",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 101701585,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "GBIF national node type records UK",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 102114179,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "GBIF national node type records France",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 102697527,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "CITES",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 102711624,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "CITES",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "255",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 102779552,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "IUCN",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 102987540,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Harvard Museum of Comparative Zoology",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 103484585,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "United States Species List",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "T102243"
+        },
+        {
+          "identifier": 104192994,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "NMNH Collection",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 104329980,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "wikipedia EN",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 104864943,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Wikidata",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 105056234,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Wikipedia (inferred records)",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 107474086,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 107503241,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "EOL:7664",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 107537418,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 107771721,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 107807404,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "NCBI:9632",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 107808439,
+          "scientificName": null,
+          "name": null,
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": null,
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 107808440,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Global Biotic Interactions",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "WD:Q11788",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 107885200,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Paleobiology Database",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 108168566,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "Paleobiology Database",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "41301",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 108352735,
+          "scientificName": "Ursidae Fischer, 1817",
+          "name": "Ursidae Fischer, 1817",
+          "nameAccordingTo": "World Register of Marine Species",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "136977",
+          "taxonRank": "family"
+        },
+        {
+          "identifier": 108352782,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "World Register of Marine Species",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        },
+        {
+          "identifier": 109188223,
+          "scientificName": "Ursidae",
+          "name": "Ursidae",
+          "nameAccordingTo": "NMNH type specimens",
+          "canonicalForm": "Ursidae",
+          "sourceIdentifier": "Ursidae"
+        }
+      ]
+    },
+    {
+      "identifier": "47438236",
+      "scientific_name": "Ursida",
+      "richness_score": "None",
+      "synonyms": [
+        {
+          "synonym": "Ursida",
+          "relationship": "preferred",
+          "resource": "wikipedia PT"
+        },
+        {
+          "synonym": "Ursida",
+          "relationship": "accepted",
+          "resource": "Paleobiology Database"
+        }
+      ],
+      "vernacularNames": [],
+      "references": "None",
+      "taxon_concepts": [
+        {
+          "identifier": 40629635,
+          "scientificName": "Ursida",
+          "name": "Ursida",
+          "nameAccordingTo": "wikipedia PT",
+          "canonicalForm": "Ursida",
+          "sourceIdentifier": "Q10388280",
+          "taxonRank": "parvorder"
+        },
+        {
+          "identifier": 108199680,
+          "scientificName": "Ursida",
+          "name": "Ursida",
+          "nameAccordingTo": "Paleobiology Database",
+          "canonicalForm": "Ursida",
+          "sourceIdentifier": "53271",
+          "taxonRank": "clade"
+        }
+      ]
+    }
+  ]
+}
