@@ -1,1 +1,1 @@
-web: gunicorn --chdir ./server/taxonomy_server app:app
+web: gunicorn --chdir ./server/taxonomy_server app:app 
