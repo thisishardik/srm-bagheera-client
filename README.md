@@ -1,4 +1,4 @@
-# SRM Bagheera WebTool
+# SRM NatureVault WebTool
 
 This repository contains the server side code and the ETL pipelines used to automate data warehousing in the web application.
 
