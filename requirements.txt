@@ -28,7 +28,6 @@ importlib-resources==5.4.0
 incremental==21.3.0
 itemadapter==0.4.0
 itemloaders==1.0.4
-itsdangerous==1.1.0
 Jinja2==2.11.2
 jmespath==0.10.0
 jsonify==0.5
