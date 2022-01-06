@@ -106,7 +106,6 @@ class TaxonomyResource(Resource):
             return response
 
 
-"""https://herokuapp.com/v1/"""
 api.add_resource(HelloWorldResource, "/" + config.VERSION + "/")
 api.add_resource(TaxonomyResource, "/" + config.VERSION + "/search")
 

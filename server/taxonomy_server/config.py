@@ -3,6 +3,8 @@ import pycountry
 
 BASE = "http://127.0.0.1:5000/"
 
+DEPLOYED_ENDPOINT = "https://srm-bagheera-app.herokuapp.com/v1/"
+
 VERSION = "v1"
 
 COUNTRIES = [
