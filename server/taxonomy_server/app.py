@@ -35,6 +35,19 @@ def abort_if_country_is_incorrect(country):
         return True
 
 
+class HelloWorldResource(Resource):
+    """Root Resource"""
+
+    def get(self, *args, **kwargs):
+        data = {
+            "message": "It's working",
+            "statusCode": 200,
+        }
+        response = jsonify(data)
+
+        return response
+
+
 class TaxonomyResource(Resource):
     """Taxonomy Resource to fetch data from all clients"""
 
@@ -93,8 +106,9 @@ class TaxonomyResource(Resource):
             return response
 
 
-"""https://xk01e5qt90.api.srm.amazonaws.com/v1/"""
-api.add_resource(TaxonomyResource, "/taxon")
+"""https://herokuapp.com/v1/"""
+api.add_resource(HelloWorldResource, "/" + config.VERSION + "/")
+api.add_resource(TaxonomyResource, "/" + config.VERSION + "/search")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
