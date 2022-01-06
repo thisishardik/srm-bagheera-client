@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath server/taxonomy_server app:app
