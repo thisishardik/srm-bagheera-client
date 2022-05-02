@@ -18,8 +18,12 @@ class SRMGbifClient():
 
     def getOccurrence(self):
         print('Finding occurrences...')
-        keys = [species.name_backbone(x, self.limit)['usageKey']
-                for x in self.species_list]
+        keys = [species.name_backbone(x, limit=self.limit).get(
+            'usageKey') for x in self.species_list]
+
+        # keys = [species.name_backbone(x, self.limit)['usageKey']
+        #         for x in self.species_list]
+
         occs = [occ.search(taxonKey=key, country=self.country,
                            limit=self.limit) for key in keys]
         print(f"Found {len(occs)} occurrences")
@@ -61,10 +65,11 @@ class SRMGbifClient():
 
 
 if __name__ == '__main__':
-    species_list = ['Cyanocitta stelleri',  'Poa annuus', 'Aix sponsa',
-                    'Ursus americanus', 'Pinus conorta']
+    # species_list = ['Cyanocitta stelleri',  'Poa annuus', 'Aix sponsa',
+    #                 'Ursus americanus', 'Pinus conorta']
+    species_list = ['Ursus americanus']
     country = "US"
-    limit = 10
+    limit = 1
     taxon_keys = []
     file_path = "pygbif_client\gbif_client_output\output.json"
 

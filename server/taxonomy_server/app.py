@@ -1,3 +1,4 @@
+from distutils.log import Log
 from flask import Flask, request, jsonify, Response
 from flask_restful import Api, Resource, reqparse, abort
 import json
@@ -79,6 +80,9 @@ class TaxonomyResource(Resource):
                                         country, limit, "")
             gbif_client_res = gbif_client.getOccurrence()
 
+            print(len(eol_client_res.keys()))
+            print(len(gbif_client_res.keys()))
+
             data = {
                 "statusCode": 200,
                 "timestamp": str(datetime.datetime.now()),
@@ -95,6 +99,7 @@ class TaxonomyResource(Resource):
             return response
 
         except Exception as e:
+            # Log.error(e)
             data = {
                 "timestamp": str(datetime.datetime.now()),
                 "statusCode": 500,
