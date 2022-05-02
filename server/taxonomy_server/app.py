@@ -99,7 +99,7 @@ class TaxonomyResource(Resource):
             return response
 
         except Exception as e:
-            # Log.error(str(e))
+            # Log.error(e)
             data = {
                 "timestamp": str(datetime.datetime.now()),
                 "statusCode": 500,
